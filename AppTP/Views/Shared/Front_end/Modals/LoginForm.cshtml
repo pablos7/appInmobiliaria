@@ -1,0 +1,45 @@
+﻿<div id="login_form" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Modal title</h4>
+            </div>
+            <div class="modal-body">
+                <div class="centrado_page">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Login de usuarios</h3>
+                        </div>
+                        <div class="panel-body">
+                            <form id="login_form" action="/" method="post">
+                                <div class="form-group">
+                                    <label for="user" class="sr-only">Usurio: </label>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">Usuario</div>
+                                        <input class="form-control" type="text" name="user" value="" placeholder="nombre de usuario" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="password" class="sr-only">Contrase&ntilde;a: </label>
+                                    <div class="input-group">
+                                        <div class="input-group-addon">Contrase&ntilde;a</div>
+                                        <input class="form-control" type="password" name="password" value="" placeholder="Ingrese su contraseña" />
+                                    </div>
+                                </div>
+                                <div class="text-center">
+                                    <input class="btn btn-warning" type="reset" name="reset" value="Reiniciar" />
+                                    <input class="btn btn-primary" type="submit" name="submit" value="Ingresar" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->

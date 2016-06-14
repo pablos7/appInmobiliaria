@@ -1,0 +1,79 @@
+﻿h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lobster', cursive;
+}
+p, ul, ol, li {
+    font-family: 'Poiret One', cursive;
+}
+a {
+    font-family: 'Indie Flower', cursive;
+}
+
+/* Id del sitio
+-----------------------------------------------------------*/
+#header_page {
+    background-image: url("/images/inmobiliaria.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#header_page div #menu_principal {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#content_head {
+    min-height: 250px;
+    color: #ffffff;
+    padding-top: 50px;
+}
+#content_head small {
+    color: #ebebeb;
+}
+#content_head h1 {
+    text-shadow:1px 2px 4px #7c7c7c;
+}
+#body_page {
+    background-color: #ffffff;
+}
+#content_body {
+    min-height: 560px;
+}
+#footer_page {
+    background-color: #303030;
+}
+#content_footer {
+    min-height: 100px;
+    color: #ffffff;
+}
+#login_form {
+    margin-top: 20px;
+}
+
+/* Clases del sitio
+-----------------------------------------------------------*/
+.centrado_page {
+    width: 65%;
+    margin: 0 auto;
+    padding-top: 55px;
+}
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}

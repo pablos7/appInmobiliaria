@@ -1,0 +1,78 @@
+D:\diegoazh\MVC\AppTP\AppTP\bin\AppTP.dll.config
+D:\diegoazh\MVC\AppTP\AppTP\bin\AppTP.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\AppTP.pdb
+D:\diegoazh\MVC\AppTP\AppTP\bin\Antlr3.Runtime.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\EntityFramework.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\Microsoft.Web.Infrastructure.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\Newtonsoft.Json.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Net.Http.Formatting.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Http.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Http.WebHost.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Mvc.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Optimization.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Providers.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Razor.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.WebPages.Deployment.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.WebPages.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.WebPages.Razor.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\WebGrease.dll
+D:\diegoazh\MVC\AppTP\AppTP\bin\EntityFramework.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\Newtonsoft.Json.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Net.Http.Formatting.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Http.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Http.WebHost.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Mvc.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.Razor.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.WebPages.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.WebPages.Deployment.xml
+D:\diegoazh\MVC\AppTP\AppTP\bin\System.Web.WebPages.Razor.xml
+D:\diegoazh\MVC\AppTP\AppTP\obj\Debug\AppTP.dll
+D:\diegoazh\MVC\AppTP\AppTP\obj\Debug\AppTP.pdb
+D:\diegoazh\MVC\AppTP\AppTP\obj\Debug\AppTP.csprojResolveAssemblyReference.cache
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\obj\Debug\AppTP.csprojResolveAssemblyReference.cache
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\obj\Debug\AppTP.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\AppTP.dll.config
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\AppTP.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\AppTP.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Antlr3.Runtime.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\EntityFramework.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Newtonsoft.Json.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Mvc.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Optimization.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Providers.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Razor.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.WebPages.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.WebPages.Razor.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\WebGrease.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\EntityFramework.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Newtonsoft.Json.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Mvc.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Razor.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.WebPages.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.WebPages.Razor.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\obj\Debug\AppTP.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\BundleTransformer.Core.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\BundleTransformer.Less.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\dotless.Core.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Optimization.Less.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Antlr3.Runtime.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\dotless.Core.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Optimization.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Optimization.Less.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\System.Web.Optimization.Less.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\ru-ru\BundleTransformer.Core.resources.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\ru-ru\BundleTransformer.Less.resources.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\CommonMark.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Core.Markdown.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Core.Platform.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\Core.Portable.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\MarkdownSharp.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\CommonMark.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\AppTP\AppTP\bin\CommonMark.xml
