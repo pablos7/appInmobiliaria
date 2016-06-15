@@ -40,7 +40,7 @@ a {
     background-color: #303030;
 }
 #content_footer {
-    min-height: 100px;
+    min-height: 75px;
     color: #ffffff;
 }
 #login_form {

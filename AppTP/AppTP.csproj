@@ -310,6 +310,7 @@
     <Content Include="Views\Shared\Front_end\Menus\menu_front.cshtml" />
     <Content Include="Views\Shared\Back_end\Sections\adminScripts.cshtml" />
     <Content Include="Views\Shared\Back_end\Menus\menu_back.cshtml" />
+    <Content Include="Views\Shared\Back_end\Menus\menu_lateral_back.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

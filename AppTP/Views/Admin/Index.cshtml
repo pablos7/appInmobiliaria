@@ -4,9 +4,12 @@
 }
 
 <div class="row">
-    <div id="menu_lateral_admin" class="col-xs-12 col-sm-12 col-md-2 col-lg-2"></div>
+    <div id="menu_lateral_admin" class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+        <h2>Administración: </h2>
+        @RenderPage("~/Views/Shared/Back_end/Menus/menu_lateral_back.cshtml")
+    </div>
     <div id="content_admin" class="col-xs-12 col-sm-12 col-md-8 col-lg-8"></div>
-    <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2"></div>
+    <div id="notificaciones_admin" class="col-xs-12 col-sm-12 col-md-2 col-lg-2"></div>
 </div>
 
 @section scripts_admin {
