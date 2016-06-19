@@ -188,6 +188,12 @@
     <Content Include="Content\less\admin.min.css">
       <DependentUpon>admin.css</DependentUpon>
     </Content>
+    <Content Include="Content\Site.css">
+      <DependentUpon>Site.less</DependentUpon>
+    </Content>
+    <Content Include="Content\Site.min.css">
+      <DependentUpon>Site.css</DependentUpon>
+    </Content>
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -247,7 +253,6 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
@@ -268,6 +273,10 @@
     <Content Include="Content\less\admin.less" />
     <Content Include="Content\less\admin.css.map">
       <DependentUpon>admin.css</DependentUpon>
+    </Content>
+    <Content Include="Content\Site.less" />
+    <Content Include="Content\Site.css.map">
+      <DependentUpon>Site.css</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-2.2.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.2.3.js" />
