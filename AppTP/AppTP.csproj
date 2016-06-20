@@ -171,6 +171,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\IndexController.cs" />
+    <Compile Include="Controllers\ProductosController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -267,6 +268,9 @@
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\FontAwesome.otf" />
     <Content Include="images\inmobiliaria.jpg" />
+    <Content Include="images\lacasa.jpg" />
+    <Content Include="images\lacasa1.jpg" />
+    <Content Include="images\lacasa2.jpg" />
     <Content Include="Scripts\admin.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -295,6 +299,7 @@
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\MisScriptsJs.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\ScriptComentario.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -320,6 +325,11 @@
     <Content Include="Views\Shared\Back_end\Sections\adminScripts.cshtml" />
     <Content Include="Views\Shared\Back_end\Menus\menu_back.cshtml" />
     <Content Include="Views\Shared\Back_end\Menus\menu_lateral_back.cshtml" />
+    <Content Include="Views\Index\ListadoProductos\ListadoProductos.cshtml" />
+    <Content Include="Views\Productos\Index.cshtml" />
+    <Content Include="Views\Productos\Carrusel\Carrusel.cshtml" />
+    <Content Include="Views\Productos\Comentario\ModalComentario.cshtml" />
+    <Content Include="Views\Shared\Front_end\Sections\ScriptComentario.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -14,33 +14,57 @@ body li {
 }
 body a {
   font-family: 'Allerta Stencil', sans-serif;
+  text-decoration: none;
 }
-body #header_page {
+body .container-fluid #header_page {
   min-height: 180px;
   background-image: url('../images/inmobiliaria.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
-body #header_page h1 {
+body .container-fluid #header_page h1 {
   color: #ffffff;
   text-shadow: 1px 2px 5px #000000;
 }
-body #header_page h1 small {
+body .container-fluid #header_page h1 small {
   color: #e9e9e9;
   text-shadow: 1px 2px 5px #000000;
 }
-body #main_menu div {
+body .container-fluid #main_menu div {
   padding: 0;
 }
-body #main_menu div nav {
+body .container-fluid #main_menu div nav {
   border-radius: 0;
   margin-bottom: 0;
 }
-body #body_page {
+body .container-fluid #body_page {
   min-height: 980px;
 }
-body #footer_page {
+body .container-fluid #body_page div div.panelAlinear {
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+body .container-fluid #body_page div div.panelAlinear div.panel-body div.row div img {
+  margin-bottom: 10px;
+}
+body .container-fluid #body_page div div div div {
+  margin-bottom: 30px;
+}
+body .container-fluid #body_page div div div div div div img {
+  width: 100%;
+}
+body .container-fluid #body_page div div div p {
+  text-align: justify;
+}
+body .container-fluid #body_page div div div p img {
+  width: 50%;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+body .container-fluid #footer_page {
   min-height: 100px;
   padding-top: 18px;
   background-color: #b7b7b7;

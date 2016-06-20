@@ -27,7 +27,7 @@ namespace AppTP
             bundles.Add(new StyleBundle("~/Content/bootstrap").Include("~/Content/bootstrap.css"));
             bundles.Add(new StyleBundle("~/Content/bootstrap-theme").Include("~/Content/bootstrap-theme.css"));
             bundles.Add(new StyleBundle("~/css/fontAwesome").Include("~/css/font-awesome.css"));
-            bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/site.css"));
+            bundles.Add(new StyleBundle("~/Content/css").Include("~/Content/Site.css"));
             bundles.Add(new StyleBundle("~/Content/admin").Include("~/Content/less/admin.css"));
 
             bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
