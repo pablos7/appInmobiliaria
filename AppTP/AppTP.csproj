@@ -299,6 +299,7 @@
     <Content Include="Scripts\knockout-2.2.0.js" />
     <Content Include="Scripts\MisScriptsJs.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\ScriptCargando.js" />
     <Content Include="Scripts\ScriptComentario.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
@@ -330,6 +331,7 @@
     <Content Include="Views\Productos\Carrusel\carrusel.cshtml" />
     <Content Include="Views\Productos\Comentario\modalComentario.cshtml" />
     <Content Include="Views\Shared\Front_end\Sections\scriptComentario.cshtml" />
+    <Content Include="Views\Shared\Front_end\Sections\scriptCargando.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

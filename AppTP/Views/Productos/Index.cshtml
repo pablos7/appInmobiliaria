@@ -21,7 +21,7 @@
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <button type="button" class="btn btn-warning" id="Consultar">Consultar</button>
+                    <button type="button" class="btn btn-warning" id="Consultar" data-loading-text="Cargando">Consultar</button>
                 </div>
             </div>
         </div>
@@ -32,4 +32,5 @@
 
 @section scripts{
     @RenderPage("~/Views/Shared/Front_end/Sections/scriptComentario.cshtml")
+    @RenderPage("~/Views/Shared/Front_end/Sections/scriptCargando.cshtml")
 }

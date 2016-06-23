@@ -40,6 +40,7 @@ body .container-fluid #main_menu div nav {
 }
 body .container-fluid #body_page {
   min-height: 980px;
+  background-color: #d8d790;
 }
 body .container-fluid #body_page div div.panelAlinear {
   margin-right: 20px;
