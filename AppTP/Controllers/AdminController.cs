@@ -11,7 +11,7 @@ namespace AppTP.Controllers
         //
         // GET: /Admin/
 
-        public ActionResult Index()
+        public ActionResult index()
         {
             return View();
         }

@@ -11,26 +11,26 @@ namespace AppTP.Controllers
         //
         // GET: /Productos/
 
-        public ActionResult Casas(string id)
+        public ActionResult casas(string id)
         {
             ViewBag.id = id;
             return View("Index");
         }
 
-        public ActionResult Departamentos(string id)
+        public ActionResult departamentos(string id)
         {
             ViewBag.id = id;
             return View("Index");
         }
 
-        public ActionResult Terrenos(string id)
+        public ActionResult terrenos(string id)
         {
             ViewBag.id = id;
             return View("Index");
         }
 
         [HttpPost]
-        public ActionResult Comentario(string id)
+        public ActionResult comentario(string id)
         {
             ViewBag.id = id;
             return View("Index");

@@ -314,22 +314,22 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Shared\Front_end\Headers\header.cshtml" />
     <Content Include="Views\Shared\Front_end\Footers\footer.cshtml" />
-    <Content Include="Views\Index\Index.cshtml" />
+    <Content Include="Views\Index\index.cshtml" />
     <Content Include="Views\Shared\Front_end\Modals\LoginForm.cshtml" />
-    <Content Include="Views\Shared\Front_end\Sections\MisScriptsJs.cshtml" />
+    <Content Include="Views\Shared\Front_end\Sections\misScriptsJs.cshtml" />
     <Content Include="Views\Shared\_Admin_Layout.cshtml" />
-    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\index.cshtml" />
     <Content Include="Views\Shared\Back_end\Headers\Header_admin.cshtml" />
     <Content Include="Views\Shared\Back_end\Footers\Footer_admin.cshtml" />
     <Content Include="Views\Shared\Front_end\Menus\menu_front.cshtml" />
     <Content Include="Views\Shared\Back_end\Sections\adminScripts.cshtml" />
     <Content Include="Views\Shared\Back_end\Menus\menu_back.cshtml" />
     <Content Include="Views\Shared\Back_end\Menus\menu_lateral_back.cshtml" />
-    <Content Include="Views\Index\ListadoProductos\ListadoProductos.cshtml" />
-    <Content Include="Views\Productos\Index.cshtml" />
-    <Content Include="Views\Productos\Carrusel\Carrusel.cshtml" />
-    <Content Include="Views\Productos\Comentario\ModalComentario.cshtml" />
-    <Content Include="Views\Shared\Front_end\Sections\ScriptComentario.cshtml" />
+    <Content Include="Views\Index\ListadoProductos\listadoProductos.cshtml" />
+    <Content Include="Views\Productos\index.cshtml" />
+    <Content Include="Views\Productos\Carrusel\carrusel.cshtml" />
+    <Content Include="Views\Productos\Comentario\modalComentario.cshtml" />
+    <Content Include="Views\Shared\Front_end\Sections\scriptComentario.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

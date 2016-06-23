@@ -11,7 +11,7 @@ namespace AppTP.Controllers
         //
         // GET: /Index/
 
-        public ActionResult Index()
+        public ActionResult index()
         {
             return View();
         }
